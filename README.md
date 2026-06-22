@@ -9,11 +9,16 @@
 <br/>
 
 
+
+</div>
+
+---
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-addy&layout=compact&theme=dark&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&border_color=1a1a2e&hide_border=false&langs_count=6" width="320"/>
 
 ## ⚔️ &nbsp;About Me
 
-**B.Tech Computer Science** ·Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur
+**B.Tech Computer Science** · Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur
 
 I build full-stack applications, explore AI systems, and probe security boundaries. I treat every project as a craft — no half-measures, no abandoned work.
 
@@ -64,33 +69,7 @@ I build full-stack applications, explore AI systems, and probe security boundari
 
 ---
 
-## 📊 &nbsp;GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudo-addy&show_icons=true&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&border_color=1a1a2e&hide_border=false&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://streak-stats.demolab.com?user=sudo-addy&theme=dark&background=0D1117&border=1a1a2e&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=666666"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sudo-addy&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-addy&bg_color=0d1117&color=DC143C&line=DC143C&point=ffffff&area=true&area_color=DC143C&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
 
 ## 🚀 &nbsp;Featured Projects
 

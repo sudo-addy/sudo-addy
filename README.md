@@ -18,7 +18,7 @@
 
 ## ⚔️ &nbsp;About Me
 
-**B.Tech Computer Science** · GH Raisoni, Nagpur
+**B.Tech Computer Science** ·Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur
 
 I build full-stack applications, explore AI systems, and probe security boundaries. I treat every project as a craft — no half-measures, no abandoned work.
 

@@ -1,0 +1,32 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "30 0 * * 1"    # Every Monday at 00:30 UTC
+  workflow_dispatch:         # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Update Timestamp
+        run: |
+          echo "Last updated: $(date -u '+%Y-%m-%d %H:%M UTC')" > .last-updated
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: weekly profile refresh [skip ci]"
+          git push

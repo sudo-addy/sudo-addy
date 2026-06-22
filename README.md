@@ -8,11 +8,6 @@
 
 <br/>
 
-*"I have no enemies."* — Thorfinn, Vinland Saga
-
-</div>
-
----
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-addy&layout=compact&theme=dark&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&border_color=1a1a2e&hide_border=false&langs_count=6" width="320"/>
 

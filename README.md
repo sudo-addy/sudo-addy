@@ -1,20 +1,18 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:DC143C&height=220&section=header&text=Abhijit%20Dohe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=sudo-addy&descSize=18&descColor=DC143C&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:DC143C&height=220&section=header&text=Abhijit%20Dohe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=sudo-addy&descSize=18&descColor=DC143C&descAlignY=55&animation=fadeIn" width="100%" alt="header banner"/>
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full+Stack+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Explorer;Building+systems+that+endure.+No+shortcuts." />
+<!-- TYPING SVG (fixed: herokuapp.com domain is dead, switched to the maintained demolab.com fork) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full+Stack+Developer+%7C+AI+Enthusiast+%7C+Cybersecurity+Explorer;Building+systems+that+endure.+No+shortcuts." alt="typing animation"/>
 
 <br/>
-
-
 
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-addy&layout=compact&theme=dark&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&border_color=1a1a2e&hide_border=false&langs_count=20" width="320"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-addy&layout=compact&theme=dark&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&border_color=1a1a2e&hide_border=false&langs_count=20&cache_seconds=86400" width="320" alt="top languages"/>
 
 ## ⚔️ &nbsp;About Me
 
@@ -69,26 +67,24 @@ I build full-stack applications, explore AI systems, and probe security boundari
 
 ---
 
-
-
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/sudo-addy/ArogyaMitra">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-addy&repo=ArogyaMitra&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&border_color=1a1a2e" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-addy&repo=ArogyaMitra&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&border_color=1a1a2e&cache_seconds=86400" width="400" alt="ArogyaMitra repo card"/>
 </a>
 &nbsp;
 <a href="https://github.com/sudo-addy/GH_raisoni_cybersec">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-addy&repo=GH_raisoni_cybersec&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&border_color=1a1a2e" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-addy&repo=GH_raisoni_cybersec&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&border_color=1a1a2e&cache_seconds=86400" width="400" alt="GH_raisoni_cybersec repo card"/>
 </a>
 
 <a href="https://github.com/sudo-addy/CoDevians_9.12_SD_G9">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-addy&repo=CoDevians_9.12_SD_G9&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&border_color=1a1a2e" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-addy&repo=CoDevians_9.12_SD_G9&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&border_color=1a1a2e&cache_seconds=86400" width="400" alt="CoDevians repo card"/>
 </a>
 &nbsp;
 <a href="https://github.com/sudo-addy/legal-matrix-5.0">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-addy&repo=legal-matrix-5.0&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&border_color=1a1a2e" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-addy&repo=legal-matrix-5.0&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&border_color=1a1a2e&cache_seconds=86400" width="400" alt="legal-matrix-5.0 repo card"/>
 </a>
 
 </div>
@@ -168,6 +164,12 @@ I don't believe in shortcuts. Every line of code is deliberate. Every project is
 
 <div align="center">
 
+<!--
+  NOTE: this only renders if you have Platane/snk (or similar) set up as a
+  GitHub Action on this repo, writing to an `output` branch. If you haven't
+  configured that workflow yet, this image will 404. See:
+  https://github.com/Platane/snk
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudo-addy/sudo-addy/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudo-addy/sudo-addy/output/github-contribution-grid-snake.svg"/>
@@ -193,7 +195,7 @@ I don't believe in shortcuts. Every line of code is deliberate. Every project is
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sudo-addy&label=Profile%20Views&color=DC143C&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=sudo-addy&label=Profile%20Views&color=DC143C&style=flat-square" alt="profile views counter"/>
 
 <br/><br/>
 
@@ -201,6 +203,6 @@ I don't believe in shortcuts. Every line of code is deliberate. Every project is
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,50:1a0000,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,50:1a0000,100:0d1117&height=120&section=footer" width="100%" alt="footer banner"/>
 
 </div>
